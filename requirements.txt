@@ -1,0 +1,5 @@
+requests
+azure-identity
+pythonnet
+azure.functions
+dotenv
